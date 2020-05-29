@@ -14,7 +14,8 @@ def countdown_with_sleep
   until seconds_left < 1 
   puts "#{seconds_left} SECOND(S)!"
   seconds_left -= 1 
-  sleep(5)
+  sleeps 5
+  
 end
   puts "HAPPY NEW YEAR!"
  

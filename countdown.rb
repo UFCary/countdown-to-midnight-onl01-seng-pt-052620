@@ -5,7 +5,6 @@ def countdown(seconds_left)
     puts "#{seconds_left" SECONDS!"
     seconds_left -= l 
   end
-  
   "HAPPY NEW YEAR!"
   
 end
@@ -16,7 +15,6 @@ def countdown(seconds_left)
     seconds_left -= l 
     sleep 1 
   end
-  
   puts "HAPPY NEW YEAR!"
   
 end
